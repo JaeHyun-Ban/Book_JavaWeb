@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\Win10\Desktop\Backup\06. JAVA\java 9일차_0402.zip"/>
+			<item value="C:\Users\Win10\Desktop\Backup\06. JAVA\java 8일차_0401.zip"/>
+			<item value="C:\Users\Win10\Desktop\Backup\06. JAVA\java 6일차_0330.zip"/>
+			<item value="C:\Users\Win10\Desktop\Backup\06. JAVA\java 3일차_0325.zip"/>
+			<item value="C:\Users\Win10\Desktop\Backup\06. JAVA\java 2일차_0324.zip"/>
+			<item value="C:\Users\Win10\Desktop\Backup\06. JAVA\java 1일차_0323.zip"/>
+		</list>
+	</section>
+</section>

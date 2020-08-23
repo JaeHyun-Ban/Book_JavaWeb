@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Win10\Desktop\Backup\Java_Web\.metadata\.plugins\org.eclipse.jdt.core
+2105603019.index
+940875578.index
+3635630337.index
+2703085184.index
+3680835817.index
+1711139511.index
