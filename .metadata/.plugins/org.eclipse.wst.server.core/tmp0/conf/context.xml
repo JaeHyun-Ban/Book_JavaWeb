@@ -26,4 +26,26 @@
     <!--
     <Manager pathname="" />
     -->
+    <!-- Resource 태그를 이용해 톰캣 실행 시 연결할 데이터베이스를 설정 하는 법 -->
+    <Resource 
+    	name = "jdbc/oracle"
+    	auth = "Container"
+    	type = "javax.sql.DataSource"
+    	driverClassName = "oracle.jdbc.OracleDriver"
+    	url = "jdbc:oracle:thin:@localhost:1521:XE"
+    	username = "scott"
+    	password = "tiger"
+    	
+    	maxActive = "50"
+    	maxWait = "-1" />
+    	
+ 
+    
 </Context>
+
+
+
+
+
+
+
